@@ -7,3 +7,5 @@ document.getElementsByTagName('div')
 document.querySelector('.classezinha')
 
 document.querySelectorAll('.classezinha')
+
+// var div = document.getElementById('titulo')
